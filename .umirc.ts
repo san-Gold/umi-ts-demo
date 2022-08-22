@@ -9,8 +9,8 @@ export default defineConfig({
   layout: {
     title: '@umijs/max',
   },
-  base:'/umi-demo/',
-  publicPath:'/umi-demo/',
+  base:'/umi-ts-demo/',
+  publicPath:'/umi-ts-demo/',
   routes: [
     {
       path: '/',
